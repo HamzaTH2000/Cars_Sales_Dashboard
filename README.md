@@ -78,3 +78,14 @@ This project involves designing and developing a dynamic and interactive Car Sal
    - **Austin** leads with 2296 cars sold.
    - **Janesville** and **Scottsdale** are also key markets with high sales figures.
    - Other regions show varying sales, suggesting potential for targeted marketing to boost performance.
+  
+
+
+________________________________________
+
+NAME : Hamza Thamlaoui
+
+Email : hamzathamleoui@gmail.com
+
+Linkedin : www.linkedin.com/in/hamza-thamlaoui-51220a264
+
