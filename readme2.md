@@ -1,3 +1,12 @@
+## MySQL Data Analysis
+
+Before creating the dashboard, I conducted an analysis of the sales data using MySQL. This involved writing queries tailored to the KPIs and charts to be included in the dashboard. The outputs from these queries served as a verification and reference point, ensuring that the results displayed in the Power BI dashboard were accurate and consistent with the underlying data.
+
+Here’s the SQL code used in the analysis:
+
+
+
+
 ![Screenshot 2024-08-28 190153](https://github.com/user-attachments/assets/849fd254-9bf4-4e94-9650-50463ec97443)
 ![Screenshot 2024-08-28 190809](https://github.com/user-attachments/assets/253130a1-2e10-44cd-8446-ffc1c62957dd)
 
@@ -43,4 +52,29 @@
 ![Screenshot 2024-08-28 194102](https://github.com/user-attachments/assets/0aff9d4a-c79b-42aa-a4e9-d4a127041321)
 
 
+![Screenshot 2024-08-28 194627](https://github.com/user-attachments/assets/4ac7b9ef-a42c-46d1-ab89-6fad98ee401a)
 
+![Screenshot 2024-08-28 195059](https://github.com/user-attachments/assets/03ad3a1c-b333-4854-b704-5afd0b96eb93)
+
+![Screenshot 2024-08-28 194658](https://github.com/user-attachments/assets/896ba23b-084f-4918-bb66-482fa1a082a3)
+
+![Screenshot 2024-08-28 195145](https://github.com/user-attachments/assets/32ab55d4-208b-4c8a-ae45-d2f953bacc69)
+
+
+![Screenshot 2024-08-28 194714](https://github.com/user-attachments/assets/29635f26-5fa8-4d2e-9fc5-a82c7139ad69)
+
+![Screenshot 2024-08-28 195222](https://github.com/user-attachments/assets/c2d496a5-91a3-43f2-aafe-62d2652aa891)
+
+
+![Screenshot 2024-08-28 194730](https://github.com/user-attachments/assets/5324da26-622d-4509-b75c-e3929f6b5c39)
+
+![Screenshot 2024-08-28 195248](https://github.com/user-attachments/assets/dc3d5a89-3b00-4807-b03b-37631fabe6fa)
+
+
+![Screenshot 2024-08-28 194758](https://github.com/user-attachments/assets/e5a74a9d-5145-48ad-a86f-10d137c4514f)
+
+![Screenshot 2024-08-28 195326](https://github.com/user-attachments/assets/7a6ebc85-5306-464f-a8ba-53a1f3371b27)
+
+![Screenshot 2024-08-28 194818](https://github.com/user-attachments/assets/6d1e8da1-013f-4ab9-84d3-312735d9b0c8)
+
+![Screenshot 2024-08-28 195401](https://github.com/user-attachments/assets/32ad33a1-9612-4dab-8034-ac148a4ebb60)
