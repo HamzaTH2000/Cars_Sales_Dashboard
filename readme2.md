@@ -5,7 +5,7 @@ Before creating the dashboard, I conducted an analysis of the sales data using M
 Here’s the SQL code used in the analysis:
 
 
-# Queries for the KPIs 
+### Queries for the KPIs 
 
 ![Screenshot 2024-08-28 190153](https://github.com/user-attachments/assets/849fd254-9bf4-4e94-9650-50463ec97443)
 ![Screenshot 2024-08-28 190809](https://github.com/user-attachments/assets/253130a1-2e10-44cd-8446-ffc1c62957dd)
@@ -52,7 +52,7 @@ Here’s the SQL code used in the analysis:
 ![Screenshot 2024-08-28 194102](https://github.com/user-attachments/assets/0aff9d4a-c79b-42aa-a4e9-d4a127041321)
 
 
-# Queries for the CHARTS (Values)
+### Queries for the CHARTS (Values)
 
 ![Screenshot 2024-08-28 194627](https://github.com/user-attachments/assets/4ac7b9ef-a42c-46d1-ab89-6fad98ee401a)
 
