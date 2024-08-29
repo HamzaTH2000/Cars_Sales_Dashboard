@@ -31,6 +31,14 @@ This project involves designing and developing a dynamic and interactive Car Sal
 5. **Tabular grid** displaying the sales trend for each company, including the company name, YTD cars sold, and YTD total sales.
 6. **Details Grid** showing information for each car sale, including car model, body style, color, sales amount, dealer region, and date.
 
+## Filters
+
+The dashboard includes the following filters:
+- **Body Style**
+- **Dealer Region**
+- **Engine**
+- **Transmission**
+
 ## KPIs Insights
 
 ### Sales Performance
