@@ -1,8 +1,8 @@
-## MySQL Queries to Analyse car sales data
+## SQL Analysis & Results
 
 Before creating the dashboard, I conducted an analysis of the sales data using MySQL. This involved writing queries tailored to the KPIs and charts to be included in the dashboard. The outputs from these queries served as a verification and reference point, ensuring that the results displayed in the Power BI dashboard were accurate and consistent with the underlying data.
 
-Here’s the SQL code used in the analysis:  
+Here’s the SQL code used in the analysis along with the output:  
 
 
 ### Queries for the KPIs 
