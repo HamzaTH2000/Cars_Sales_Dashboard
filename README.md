@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project involves designing and developing a dynamic and interactive Car Sales Power BI Dashboard. The dashboard visualizes key KPIs related to car sales, enabling a better understanding of sales performance and supporting data-driven decisions.
-### Link to the Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNzc1MzhlYTUtZWY0OC00MWU2LWJkMGYtNTYxYjZmYzBiYzcyIiwidCI6ImRiZDY2NjRkLTRlYjktNDZlYi05OWQ4LTVjNDNiYTE1M2M2MSIsImMiOjl9
+
 
 ## KPIs Description
 
